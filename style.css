@@ -1,0 +1,139 @@
+.body{
+    /* margin-top: 2rem; */
+    max-width: 1440px;
+    min-width: 360;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.button-dark{
+    background-color: #191A23;
+    border-radius: 1rem;
+    color:#FFFFFF;
+    padding: 1.5rem 2.5rem;
+    margin-top:2rem;
+    font-size: 1rem;
+    border: 1px solid #191A23;}
+
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+
+}
+.nav-div {
+    flex-grow: 1;
+
+}
+
+.nav-bar-div {
+    display: flex;
+    gap: 1rem;
+    
+
+}
+
+.nav-bar{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+gap:2rem;
+
+}
+
+.nav-li {
+    list-style-type: none;
+    gap:2rem;
+    font-size: 1.6rem;
+}
+
+
+.nav-button{
+    border: 1px solid #000000;
+    background-color: transparent;
+    padding: 2.4rem 4.3rem;
+    border-radius: 1.75rem;
+    font-size: 1.6rem;
+}
+
+
+
+    .section1{
+    margin-top: 2rem;
+}
+
+.section-h1{
+    margin: 0;
+}
+
+
+
+.mobile-img{
+    display: none;
+
+}
+
+.desktop-img{
+    display: block;
+    
+
+}
+
+.section-div2-child{
+    font-weight: medium;
+    font-size: 2.1rem;
+}
+
+.section-div2-child2{
+    margin-top: 5px;
+    font-size: 1.4rem;
+
+}
+
+.section1-div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first-logo-div{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    justify-content: space-between;
+    margin-top: 5rem;
+    gap:3.5rem;
+
+}
+/*------------section 1st end here -------------------------*/
+
+
+
+/*------------section 2nd start here------------------------*/
+
+
+
+.section2-parent-div{
+    display: flex;
+    /* justify-content: space-between; */
+    align-content: center;
+    gap:2rem;
+    margin-top: 6rem;
+}
+
+.section2-button{
+display: flex;
+font-size: 2rem;
+background-color: #B9FF66;
+border: none;
+border-radius: 7px;
+text-align: center;
+padding: 0.5rem 2.2rem;
+font-size:2.4rem;
+}
+.section2-p{
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+
+}
