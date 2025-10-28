@@ -349,6 +349,7 @@ border-radius: 5px;
     padding: 2rem;
     margin-top: 3rem;
     font-size: 1.5rem;
+    margin-bottom: 4rem;
 }
 
 .section5-child-div{
@@ -374,4 +375,22 @@ border-radius: 5px;
 
 /*  section 5 end here */
 
-     
+.sectiond6-div{
+display:flex ;
+gap: 2.2rem;
+margin-top: 3rem;
+}
+
+.section6-h2{
+font-size: 3rem;
+background-color: #B9FF66;
+justify-content: center;
+width:auto;
+align-items: center;
+text-align: center;
+border-radius: 7px;
+}
+
+.section6-p{
+    font-size: 1.5rem;
+}
