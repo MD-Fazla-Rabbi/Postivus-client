@@ -338,3 +338,38 @@ border-radius: 5px;
     display: none;
 }
 /* section 4 end here                                  */
+
+
+.section5-main-div{
+    display: flex;
+    background-color: #000000;
+    border-radius: 1.5rem;
+    color:white;
+    justify-content: space-evenly;
+    padding: 2rem;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.section5-child-div{
+    display: grid;
+}
+.ction5-div-child{
+    border-right:3px solid white;
+    padding:0rem 4rem 0rem 0rem;
+    
+}
+
+.section5-icon{
+   margin-top: 1rem;
+   display: flex;
+   color: #B9FF66;
+   justify-content: flex-start;
+   gap: 1rem;
+}
+
+.section5-main-div-m{
+    display: none;
+}
+
+/*  section 5 end here */
