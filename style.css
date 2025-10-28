@@ -233,3 +233,108 @@ background-color: #191A23;
 
 /* section3 end here css-------------------- */
 
+/* section4 start here css ------------------*/
+
+.section4-main-div{
+    display: block;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+    background-color:#F3F3F3;
+    border-radius:45px;
+    overflow: visible;
+    margin-bottom: 5rem;
+}
+.section4-child-div1{
+width: 66.66%;
+    padding: 3rem;
+}
+
+.section4-h3-h{
+    font-size: 2rem;
+
+}
+
+.section4-h3{
+    padding-top: 2rem;
+
+}
+
+.section4-p{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+
+}
+
+.section4-button{
+   margin-top:2rem;
+    border: none;
+    background-color: #000000;
+    color: #F3F3F3;
+    height: 4rem;
+    width: 20rem;
+    border-radius: 14px;
+    transition: transform 4s;
+}
+
+.section4-button:hover{
+    transform:scale(1.2) rotate(360deg);
+
+}
+
+.section4-img{
+    width: 33.33%;
+    z-index: 1;
+    padding-right: 20px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    left: 0;
+
+
+}
+.img-section4-img{
+    top:0;
+    right: 0;
+    max-height: auto;
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+    
+    
+}
+    
+.button-dark-m{
+    display:none;
+}
+
+.section4-main-div-m{
+    display: none;
+    margin-bottom: 10rem;
+}
+
+
+
+.section4-child2{
+    display: flex;
+    margin-top: 5rem;
+    align-items: center;
+    gap:3rem;
+}
+
+.section4-button2{
+height: 3rem;
+width: 15rem;
+font-size: 2.3rem;
+border:none;
+background-color: #B9FF66;
+border-radius: 5px;
+}
+
+.section4-p-p{
+    font-size:1.3rem;
+}
+
+.section4-child2-m{
+    display: none;
+}
+/* section 4 end here                                  */
