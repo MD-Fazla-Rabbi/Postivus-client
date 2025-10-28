@@ -147,6 +147,9 @@ font-size:2.4rem;
 
 }
 
+/*-----------section2 end here---------*/
+
+/*-----------section3 start here--------*/
 .div3{
     display: flex;
     justify-content: space-between;
@@ -228,8 +231,5 @@ background-color: #B9FF66;
 background-color: #191A23;
 }
 
-@media screen and (max-width: 1440px) {
-    .body{
-        max-width: 1200px;
-    }
-}
+/* section3 end here css-------------------- */
+
