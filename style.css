@@ -486,6 +486,7 @@ border-radius: 7px;
 .section7-bottom-h2{
     font-size: 2.9rem;
     background-color: #B9FF66;
+    border-radius: 4px;
 
 }
 
@@ -493,3 +494,65 @@ border-radius: 7px;
     font-size: 1.5rem;
 }
 
+/*-------------section7 end here------------*/
+
+.section8-content-div h3,.section5-content-div h5 {
+display:flex;
+    display: inline;
+}
+
+
+.section8-cards-container {
+    display :grid; 
+    grid-template-columns :repeat(3,1fr); 
+    gap:50px;
+    margin-top: 3rem;    
+}
+
+.section8-card{
+    width: 100%;
+    background-color:#FAF9F6;
+    margin: 0 auto;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 8px;
+    box-shadow:0px 1px 0px 0px black;
+    background-image:url("./img/icone6.png");
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size:10%;
+    box-sizing: border-box;
+}
+
+
+img.card-img {
+    width: 30%;
+    height: 20%;
+}
+.inline {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.section8-bottom-div{
+    display: flex;
+    justify-content:flex-end;
+    margin-top: 3rem;
+}
+
+
+.section8-bottom{
+    background-color: #000000;
+    display: flex;
+    justify-content:center;
+    height: 2.5rem;
+    color: #F3F3F3;
+    width: 12rem;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+
+  
