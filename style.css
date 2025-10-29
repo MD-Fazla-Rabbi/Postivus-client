@@ -587,4 +587,37 @@ img.card-img {
 
 /* section 9 end here       */
 
+
+/*    section 10 start         */
+
+
+/*    section 10 end here      */
   
+/*  section11 start here    */
+
+.section11-main-div{
+    display: flex;
+    gap: 2rem;
+    margin-top: 4rem;
+}
+
+.section11-botton{
+    background-color: #B9FF66;
+    height:3.6rem;
+    width: 20rem;
+    font-size: 3rem;
+    font-size:bold ;
+    align-items: center;
+    font-weight: bold;
+    border:none;
+}
+
+
+.section11-p{
+    font-size:1.4rem;
+    align-items:center; 
+}
+
+
+
+/* section11 end here    */
