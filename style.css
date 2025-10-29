@@ -358,6 +358,7 @@ border-radius: 5px;
 .ction5-div-child{
     border-right:3px solid white;
     padding:0rem 4rem 0rem 0rem;
+
     
 }
 
@@ -375,9 +376,12 @@ border-radius: 5px;
 
 /*  section 5 end here */
 
-.sectiond6-div{
+
+/*----------section6 start here--------*/
+
+.section6-div{
 display:flex ;
-gap: 2.2rem;
+gap: 2rem;
 margin-top: 3rem;
 }
 
@@ -394,3 +398,98 @@ border-radius: 7px;
 .section6-p{
     font-size: 1.5rem;
 }
+
+/*----------section6 end here--------*/
+
+/* section 7 start here */
+
+.section7{
+    
+    margin-top: 10rem;
+}
+
+.section7-header{
+    margin-top: 4rem;
+    gap: 2rem;
+}
+
+
+
+.section7-prant-div1{
+    border:2px solid black;
+    border-radius: 1.5rem;
+    padding: 4rem;
+    background-color: #B9FF66;
+}
+
+.section7-child-div1{
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.section7-child1-h2{
+    font-size: 3rem;
+}
+
+.plus-icone-div{
+    display:flex;
+    gap: 1rem;
+    align-items: center;
+
+}
+
+.section7-child1-p{
+    font-size: 2rem;
+}
+
+.section7-child-div2{
+    margin-top: 1.4rem;
+    font-size: 1.4rem;
+}
+
+.section7-child2-div2{
+    display: flex;
+    justify-content: space-between;
+    border:2px solid black;
+    border-radius: 1.5rem;
+    padding: 4rem;
+    margin-top: 2rem;
+    background-color: #F3F3F3;
+}
+
+.section7-child2-div3{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+.section7-child2-h2{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.section7-child2-p2{
+    font-size: 2rem;
+}
+
+.section7-bottom-div{
+    display: flex;
+    margin-top: 7rem;
+    gap: 3rem;
+    align-items: center;
+}
+
+.section7-bottom-h2{
+    font-size: 2.9rem;
+    background-color: #B9FF66;
+
+}
+
+.section7-bottom-p{
+    font-size: 1.5rem;
+}
+
