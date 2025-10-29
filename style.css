@@ -557,5 +557,34 @@ img.card-img {
     border-radius: 1rem;
 }
 
+/*-------section8 end here-----*/
+
+
+/*    section9 start here */
+
+.section9-main-div{
+    display: flex;
+    gap:4rem;
+    margin-top: 4rem;
+}
+
+.section9-button{
+    background-color: #B9FF66;
+    height:3.6rem;
+    width: 20rem;
+    font-size: 3rem;
+    font-size:bold ;
+    align-items: center;
+    border: none;
+    border-radius: 9px;
+}
+
+
+.section9-p{
+    font-size:1.4rem;
+    align-items:center;
+}
+
+/* section 9 end here       */
 
   
